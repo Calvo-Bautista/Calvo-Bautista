@@ -59,6 +59,6 @@ I am a systems engineering student, currently halfway through my degree. I am ex
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Calvo-Bautista)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/Calvo-Bautista)
+[![](https://github-readme-stats.vercel.app/api?username=Calvo-Bautista&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Calvo-Bautista)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Calvo-Bautista&theme=material-palenight)](https://github.com/Calvo-Bautista)
 </div>
